@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseStringApp", "ReverseStringApp\ReverseStringApp.csproj", "{C61904B9-30EF-44D8-946E-7710662DAA5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C61904B9-30EF-44D8-946E-7710662DAA5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C61904B9-30EF-44D8-946E-7710662DAA5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C61904B9-30EF-44D8-946E-7710662DAA5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C61904B9-30EF-44D8-946E-7710662DAA5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61C2A9CE-DAB5-4135-825B-8793F749D1D5}
+	EndGlobalSection
+EndGlobal
