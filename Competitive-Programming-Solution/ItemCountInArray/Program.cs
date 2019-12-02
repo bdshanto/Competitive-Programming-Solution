@@ -9,7 +9,7 @@ namespace ItemCountInArray
     {
         static void Main(string[] args)
         {
-            string[] arr = {"1", "1", "2", "2", "2", "3", "3", "4", "5", "5", "4", "5", "6","7"};
+            string[] arr = {"1", "1", "2", "2", "2", "3", "3", "4", "5", "5", "4", "5", "7","7"};
 
             List<string> arrTemp =new List<string>();
 
